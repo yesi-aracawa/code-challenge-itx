@@ -1,10 +1,8 @@
 input:read-only {
   background-color: lightgray;
-  /* color: red;gray */
 }
 input:-moz-read-only {
   background-color: lightgray;
-  /* color: red; */
 }
 
 tr {
