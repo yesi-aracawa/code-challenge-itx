@@ -1,0 +1,20 @@
+input:read-only {
+  background-color: lightgray;
+  /* color: red;gray */
+}
+input:-moz-read-only {
+  background-color: lightgray;
+  /* color: red; */
+}
+
+tr {
+  display: flex;
+  align-items: center;
+  height: 30px;
+}
+i.fas {
+  margin-right: 10px;
+}
+td[id^="input_"] {
+  width: 80px;
+}
