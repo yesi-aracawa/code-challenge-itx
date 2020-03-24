@@ -7,16 +7,16 @@
 
 ##### Step1. See data
 
-![step1.-See data](./image/step1.png)
+![step1.-See data](./assets/step1.png)
 
 ##### Step2. See the icons and background color
 
-![step2.-See icons](./image/step2.png)
+![step2.-See icons](./assets/step2.png)
 
 ##### Step3. Click on edit icon and edit information
 
-![step3.-See modify](./image/step3.png)
+![step3.-See modify](./assets/step3.png)
 
 ##### Step4. Click on Save icon and look on console the data information
 
-![step4.-See Save temporaly](./image/step4.png)
+![step4.-See Save temporaly](./assets/step4.png)
